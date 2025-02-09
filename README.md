@@ -1,1 +1,1 @@
-# Tesztes feladat React és Selenium használatávaé
+# Tesztes feladat React és Selenium használatával
